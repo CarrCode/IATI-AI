@@ -1,5 +1,5 @@
 # IATI.AI
-![devices](https://github.com)
+![devices](https://github.com/Humanitarian-AI/IATI-AI/blob/master/Media/IATI-Data-cropped.png)
 
 **IATI.AI** is an **MIT Solve** solution developing datasets and algorithms artificial intelligent applications need to process **IATI** data published by humanitarian organizations.
 
@@ -24,4 +24,4 @@ The all-volunteer, open source initiative is concentrating on developing an inte
 
 ## Contribute Data, Code and Insight
 
-Review project [Milestones](https://github.com/IATI-AI/IATI-AI/milestones) and [Issues](https://github.com/IATI-AI/IATI-AI/issues) to learn more about challenges and tasks we're working on and let us know if you'd like to learn more or get involved in contributing raw data, code or useful insight. Contact: **team (at) iati.ai**
+Review project [Milestones](https://github.com/Humanitarian-AI/IATI-AI/milestones) and [Issues](https://github.com/Humanitarian-AI/IATI-AI/issues) to learn more about tasks we're working onet us . Let us know if you'd like to learn more or get involved in contributing raw data, code or useful insight. Contact: **team (at) iati.ai**
