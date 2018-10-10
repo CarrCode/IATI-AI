@@ -1,27 +1,31 @@
-# IATI.AI
+# IATI AI
+
 ![devices](https://github.com/Humanitarian-AI/IATI-AI/blob/master/Media/IATI-Data-cropped.png)
 
-**IATI.AI** is an **MIT Solve** solution developing datasets and algorithms artificial intelligent applications need to process **IATI** data published by humanitarian organizations.
+IATI AI is an open source initiative launched by [Humanitarian AI](https://www.meetup.com/Humanitarian-AI/) members bringing students, tech volunteers, private sector companies, academic institutions and humanitarian stakeholders together to develop key algorithms artificial intelligent applications need to process humanitarian aid activity data.
 
-## MIT Solve and IATI
+## Focus
 
-[MIT Solve](https://solve.mit.edu/) is an MIT based social good accelerator. The accelerator helps channel support behind innovative solutions addressing global challenges. This year MIT Solve is channeling support behind initiatives helping “communities invest in frontline health workers and services to improve their access to effective and affordable care.”
+The all-volunteer initiative is focusing on carrying out and centralizing the development of specific **algorithms** and **backend utilities** needed to give popular digital assistants the ability to answer complex queries about humanitarian crises and aid operations using information published by humanitarian organizations and donors via frameworks like **IATI**.
 
-[IATI](http://iatistandard.org) is an open data sharing framework used by over 800 humanitarian organizations and donors to make detailed information about aid activities, transactions and results accessible to machine applications.
+IATI is an open data sharing standard and publishing framework widely used across the humanitarian community by over 800 organizations that's supported by the UN and mandated by many government development agencies. It was created to give humanitarian organizations and donors a conduit to use to make detailed information on aid activities, transactions and results accessible to machine applications.
 
-The United Nations and government development agencies are encouraging and mandating IATI to increase the use and impact of data in the humanitarian sector and give communities and frontline health workers access to the data they need, when and how they need it, to make responsible and informed decisions.
+## Microprojects
 
-## Query Processing Algorithm
+IATI AI is being implemented through **microprojects** separating research and development work into small, narrowly focused tasks.
 
-IATI.AI is working out how today’s emerging artificial intelligent applications and digital assistants like Alexa can plug into and use live streaming IATI data to answer queries about humanitarian operations to help inform giving and support operational coordination.
+Repository | Project Objective
+---- | ----
+[IATI-JSON](https://github.com/Humanitarian-AI/IATI-JSON) | JSON formatting models for IATI data
+[IATI-Neo4j](https://github.com/Humanitarian-AI/IATI-Neo4j) | IATI graph database models
+[IATI-Extractor](https://github.com/Humanitarian-AI/IATI-Extractor) | IATI data extractor
+[HXS-API](https://github.com/Humanitarian-AI/HXS-API) | IATI database, server and API
+[Queries-Commands](https://github.com/Humanitarian-AI/Queries-Commands) | Humanitarian queries and commands
+[Keyword-Extractor](https://github.com/Humanitarian-AI/Keyword-Extractor) | Humanitarian keyword extractor
+[Script-Generator](https://github.com/Humanitarian-AI/Script-Generator) | Database query script generator
 
-The all-volunteer, open source initiative is concentrating on developing an intelligent **query processing algorithm** capable of giving Alexa for example the ability to:
+## Get Involved
 
-* Break down and understand humanitarian queries
-* Identify relevant IATI information fields
-* Generate Neo4j graph database query scripts capable of being executed to retrieve data from IATI
-* Use retrieved information to answer queries and ask follow-up questions where needed
+To get involved, [join](https://humanitarianai.typeform.com/to/DVRbE9) Humanitarian AI on **Slack** and our **IATI-AI** channel then introduce yourself to the team and check out IATI AI's different microprojects and their specific milestones and issues.
 
-## Contribute Data, Code and Insight
-
-Review project [Milestones](https://github.com/Humanitarian-AI/IATI-AI/milestones) and [Issues](https://github.com/Humanitarian-AI/IATI-AI/issues) to learn more about tasks we're working onet us . Let us know if you'd like to learn more or get involved in contributing raw data, code or useful insight. Contact: **team (at) iati.ai**
+For general project inquiries, contact: team (at) IATI.AI
